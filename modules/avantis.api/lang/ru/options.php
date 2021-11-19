@@ -1,0 +1,4 @@
+<?php
+$MESS['AVANTIS_API_PAGE_CONFIG_TAB_TITLE'] = 'Настройки';
+$MESS['AVANTIS_API_PAGE_DISABLE_ROUTE_TAB_TITLE'] = 'Отключение потоков';
+$MESS['AVANTIS_API_DISABLE_ROUTE_OPTION'] = 'Отключить "#ROUTE#"';

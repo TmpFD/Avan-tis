@@ -1,0 +1,5 @@
+<?php
+
+$GLOBALS['AV_CONSTANTS'] = [
+    'DEALER_PERSON_TYPE_ID' => 5,
+];
